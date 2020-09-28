@@ -22,7 +22,7 @@ public class NewHashTodo {
     public static void main(String[] args) {
         // TODO code application logic here
     int choice;
-     HashMap<Integer,Todo> todoMap=new HashMap<>();//taking Integer & Todo class 		
+     HashMap<Integer,Todo> todoMap=new HashMap<>();//taking Integer & Todo as input 		
     int id;
     
     Scanner input = new Scanner(System.in);
