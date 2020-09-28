@@ -37,7 +37,6 @@ public class Todo {
     public void setStatus(Status status) {
         this.status = status;
     }
-
     @Override
     public String toString() {
         return "Todo{" + "name=" + name + ", date=" + date + ", status=" + status + '}';
